@@ -1,0 +1,10 @@
+botol plastik : true
+kotak susu : false
+kain : false
+botol kaca : false
+kertas : false
+kaleng : false
+koran : false
+kardus : false
+karet : false
+sedotan : true
